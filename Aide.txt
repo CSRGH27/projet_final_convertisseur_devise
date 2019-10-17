@@ -1,0 +1,3 @@
+- CReation de l'env virtuel
+- Activation de l'env virtuel
+- Instalation des packages avec pip
